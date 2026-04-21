@@ -1,6 +1,16 @@
-# Machine Learning Project
+<p align="center">
+  <a href="https://github.com/ritesh28/machine-learning-py" target="_blank">
+    <img data-source="github" loading="lazy" alt="Machine Learning" src="https://github.com/ritesh28/machine-learning-py/raw/main/banner.png" width="750"/>
+  </a>
+</p>
+
+# Machine Learning (ML) Projects and Tutorials
 
 Machine learning experiments and analysis using Jupyter notebooks.
+
+## Description
+
+This repository contains a collection of machine learning projects and tutorials, covering topics like regression, classification, clustering, and deep learning. Each project includes code examples and explanations to help you understand key ML concepts.
 
 ## Project Structure
 
